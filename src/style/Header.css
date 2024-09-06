@@ -1,0 +1,15 @@
+.header-section{
+    border: 1px ;
+    background-color: #FDFFC2;
+    box-shadow: 5px 5px 10px #FFDB5C;
+    height: 72px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 500px;
+}
+.header-section h1{
+    padding: 15px;
+
+}
